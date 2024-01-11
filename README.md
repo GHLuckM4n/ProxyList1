@@ -17,3 +17,4 @@
 * 🔗 Fully cURL-compatible
 * ⚡ Fast
 * 🔍 Scraped
+* 🤖 Deduplicated
